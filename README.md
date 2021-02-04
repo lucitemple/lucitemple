@@ -25,3 +25,5 @@ I strive to do good work, with good people, for a good purpose.
 - 🌱 I’m currently learning React.js & Cypress
 
 I'm available for part-time local or remote work.
+
+[![Luci GitHub stats](https://github-readme-stats.vercel.app/api?username=lucitemple&theme=cobalt&show_icons=true)](https://github.com/lucitemple/github-readme-stats)
