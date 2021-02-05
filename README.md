@@ -26,6 +26,18 @@ I strive to do good work, with good people, for a good purpose.
 
 I'm available for part-time local or remote work.
 
+You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/lucitemple
+[2]: https://www.linkedin.com/in/lucitemple/
+
 
 [![Luci GitHub stats](https://github-readme-stats.vercel.app/api?username=lucitemple&theme=cobalt&show_icons=true)](https://github.com/lucitemple/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucitemple&layout=compact&theme=cobalt)](https://github.com/lucitemple/github-readme-stats)
