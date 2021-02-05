@@ -26,4 +26,8 @@ I strive to do good work, with good people, for a good purpose.
 
 I'm available for part-time local or remote work.
 
+
 [![Luci GitHub stats](https://github-readme-stats.vercel.app/api?username=lucitemple&theme=cobalt&show_icons=true)](https://github.com/lucitemple/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucitemple&layout=compact&theme=cobalt)](https://github.com/lucitemple/github-readme-stats)
+
+Stats cards are courtesy of @anuraghazra [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
