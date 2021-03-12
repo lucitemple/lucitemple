@@ -21,12 +21,12 @@ You could say I’ve taken the scenic route to frontend web development, after a
 I strive to do good work, with good people, for a good purpose.
 
 - 🔭 I’m currently working on building a portfolio of projects to showcase my skills.
-- 👯 I’m looking to collaborate on for-purpose projects.
+- 👯 I’m collaborating on for-purpose projects, such as [seechange](https://github.com/CodeforAustralia/seechange).
 - 🌱 I’m currently learning React.js & Cypress
 
 I'm available for part-time local or remote work.
 
-You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1].
+You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1], or checkout my [portfolio webpage](https://lucitemple.github.io/). 
 
 <!-- Technologies -->
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
