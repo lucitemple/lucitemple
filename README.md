@@ -20,9 +20,9 @@ You could say I’ve taken the scenic route to frontend web development, after a
 
 I strive to do good work, with good people, for a good purpose.
 
-- 🔭 I’m currently working on building a portfolio of projects to showcase my skills.
+- 🔭 I’m currently strengthening my [portfolio](https://lucitemple.github.io/) by building React.js projects.
 - 👯 I’m collaborating on for-purpose projects, such as [Code For Australia](https://github.com/CodeforAustralia)'s Civic Makers [seechange](https://github.com/CodeforAustralia/seechange) project and [CodeSydney](https://github.com/codesydney)'s [PAACT](https://github.com/codesydney/paact) project.
-- 🌱 Redux, TypeScript, and Jest are next on my list to learn.
+- 🌱 Redux, TypeScript, and Jest are on my "to-learn-next" list.
 
 I'm available for part-time, local, or remote work.
 
