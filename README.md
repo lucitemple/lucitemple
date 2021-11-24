@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 My name is Luci Temple and I'm a purpose-driven front-end web developer based in Wollongong, Australia.
 
-You could say I’ve taken the scenic route to frontend web development, after a couple decades doing other stuff - activism,  marketing, communications, screenwriting, filmmaking, advertising, bookselling, telemarketing, entrepreneurialism, volunteering, parenting… 
-
 I strive to do good work, with good people, for a good purpose.
 
-- 🔭 I’m currently strengthening my [portfolio](https://lucitemple.github.io/) by building React.js projects.
-- 👯 I’m collaborating on for-purpose projects, such as [Code For Australia](https://github.com/CodeforAustralia)'s Civic Makers [seechange](https://github.com/CodeforAustralia/seechange) project and [CodeSydney](https://github.com/codesydney)'s [PAACT](https://github.com/codesydney/paact) project.
-- 🌱 I'm currently learning Redux, TypeScript, and Jest.
+- 🔭 I’m currently strengthening my [portfolio](https://lucitemple.github.io/) and enjoy building React.js projects.
+- 👯 I’ve collaborated on for-purpose projects, such as [Code For Australia](https://github.com/CodeforAustralia)'s Civic Makers [seechange](https://github.com/CodeforAustralia/seechange) project and [CodeSydney](https://github.com/codesydney)'s [PAACT](https://github.com/codesydney/paact) project.
+- 🌱 I'm learning more about TDD.
 
 You can find me on [![LinkedIn][2.2]][2] or [![Twitter][1.2]][1], or checkout my [portfolio webpage](https://lucitemple.github.io/). 
 
